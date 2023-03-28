@@ -1,0 +1,4 @@
+CLIENT_ID = ""
+SECRET = ""
+USERNAME = ""
+PASSWORD = ""
