@@ -8,7 +8,7 @@ pip install praw
 
 pip install openai
 
-*Reddit Config*
+**Reddit Config**
 
 To make a reddit account that you can automate, use these instructions to generate a script account: https://praw.readthedocs.io/en/stable/getting_started/authentication.html#password-flow
   first register an account (I recommend a brand new one) and then get the credentials generated from it in the prefs page (you will see them at the end of creating the application.
@@ -20,7 +20,7 @@ SECRET = ""
 USERNAME = ""
 PASSWORD = ""
 
-*OpenAI Config*
+**OpenAI Config**
 
 Use the openai website to create an account and get an api key.  There are usually free credits to use: https://platform.openai.com/account/api-keys
 
